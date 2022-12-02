@@ -8,3 +8,5 @@ g++ PerfLite.cpp -o PerfLite
 
 To run the tool:
 ./PerfLite
+# Terminal Output
+![image](https://user-images.githubusercontent.com/75717473/205229058-9dbe5cf9-e5f5-4ef6-a8f2-7dd17e0ce644.png)
